@@ -1,27 +1,29 @@
-# InlineTableEditor
+# How to Build a CRUD Application in Angular 14 +
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+Hi there 👋
 
-## Development server
+This is the live project of a tutorial I originally posted on the Dev Community! You can checkout the accompanying post [here](https://dev.to/chadwinjdeysel/create-an-crud-application-with-inline-table-editing-in-angular-14--1edl).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## How do I run this project? 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+To run this project on your local machine, follow the steps below.
 
-## Build
+1. Clone this repo to your machine.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+2. Open the project in your code editor of choice.
 
-## Running unit tests
+3. Install the neccesary packages:
+```
+npm i
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+4. Run the project
+```
+ng serve
+```
 
-## Running end-to-end tests
+--- 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Thanks for checking out this repo, and have a great day!
